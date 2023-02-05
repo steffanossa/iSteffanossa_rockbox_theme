@@ -9,5 +9,8 @@ A simplistic theme for rockbox (iPod Video/Classic).
   <picture>
     <img src="img/screenshot1.png">
   </picture>
+  <picture>
+    <img src="img/screenshot2.png">
+  </picture>
 </p>
 </details>
