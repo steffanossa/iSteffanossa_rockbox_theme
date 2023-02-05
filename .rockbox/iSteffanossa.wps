@@ -1,17 +1,17 @@
 %wd
 %X(bg_wps.bmp)
-%Fl(2,16-Adobe-Helvetica-Bold.fnt)
-%Fl(3,14-Adobe-Helvetica-Bold.fnt,12)
+%Fl(2,16_AdoHelveBold.fntnt)
+%Fl(3,14_AdoHelveBold.fnt,12)
 #
 %xl(D,Battery Icon.bmp,0,0,26)
 %xl(E,Disk Access.bmp,0,0,6)
 %xl(F,Hold Icon.bmp,0,0)
 #%xl(G,Play.bmp,0,0,4)
-%xl(G,Play23.bmp,0,0,4)
-%xl(H,Repeat Icon-grau.bmp,0,0,4)
-%xl(I,Shuffle Icon-grau.bmp,0,0)
-%xl(J,volumelinks.bmp,29,186)
-%xl(K,volumerechts.bmp,277,186)
+%xl(G,play23.bmp,0,0,4)
+%xl(H,repeat_grey.bmp,0,0,4)
+%xl(I,shuffle_grey.bmp,0,0)
+%xl(J,vol_left.bmp,29,186)
+%xl(K,vol_right.bmp,277,186)
 #
 #-- vol
 #
@@ -35,14 +35,13 @@
 #
 #-- vol bar
 #
-%xl(L,vol-slider.bmp,0,0)
+%xl(L,vol_slider.bmp,0,0)
 %Vl(h,49,190,222,6,-)
-#%pv(0,0,222,6,pb-ipod2.bmp)
-%pv(0,0,222,6,pb-ipod2.bmp,slider,L)
+%pv(0,0,222,6,vb.bmp,slider,L)
 #
 #-- pb
 #
-%xl(M,pb-slider.bmp,0,0)
+%xl(M,pb_slider.bmp,0,0)
 %Vl(d,49,190,222,6,-)
 %pb(0,0,222,6,pb.bmp)
 %pb(0,0,222,6,pb.bmp,slider,M)
