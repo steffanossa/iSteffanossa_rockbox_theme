@@ -1,4 +1,4 @@
-# iSteffanossa Rockbox Theme
+# Rockbox Theme iOne
 
 A simplistic theme for rockbox (iPod Video/Classic).
 <details>
